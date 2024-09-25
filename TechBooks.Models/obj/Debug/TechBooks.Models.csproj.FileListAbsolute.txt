@@ -1,0 +1,12 @@
+E:\DEV\WEB SERVER\Chapter 1\TechBooksV1\TechBooks.Models\bin\Debug\TechBooks.Models.dll
+E:\DEV\WEB SERVER\Chapter 1\TechBooksV1\TechBooks.Models\bin\Debug\TechBooks.Models.pdb
+E:\DEV\WEB SERVER\Chapter 1\TechBooksV1\TechBooks.Models\obj\Debug\TechBooks.Models.csproj.AssemblyReference.cache
+E:\DEV\WEB SERVER\Chapter 1\TechBooksV1\TechBooks.Models\obj\Debug\TechBooks.Models.csproj.CoreCompileInputs.cache
+E:\DEV\WEB SERVER\Chapter 1\TechBooksV1\TechBooks.Models\obj\Debug\TechBooks.Models.dll
+E:\DEV\WEB SERVER\Chapter 1\TechBooksV1\TechBooks.Models\obj\Debug\TechBooks.Models.pdb
+E:\DEV\WEB SERVER\Chapter 2\Chapter2_Examples\TechBooksV2\TechBooks.Models\bin\Debug\TechBooks.Models.dll
+E:\DEV\WEB SERVER\Chapter 2\Chapter2_Examples\TechBooksV2\TechBooks.Models\bin\Debug\TechBooks.Models.pdb
+E:\DEV\WEB SERVER\Chapter 2\Chapter2_Examples\TechBooksV2\TechBooks.Models\obj\Debug\TechBooks.Models.csproj.AssemblyReference.cache
+E:\DEV\WEB SERVER\Chapter 2\Chapter2_Examples\TechBooksV2\TechBooks.Models\obj\Debug\TechBooks.Models.csproj.CoreCompileInputs.cache
+E:\DEV\WEB SERVER\Chapter 2\Chapter2_Examples\TechBooksV2\TechBooks.Models\obj\Debug\TechBooks.Models.dll
+E:\DEV\WEB SERVER\Chapter 2\Chapter2_Examples\TechBooksV2\TechBooks.Models\obj\Debug\TechBooks.Models.pdb
